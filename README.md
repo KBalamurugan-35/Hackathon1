@@ -1,2 +1,13 @@
-#Hackathon1
-Official Repository for team Fantastic - 4 At Autodesk Fusioon X Std Industry Hackathon.
+# 🚀 Hackathon1
+
+Official repository for **Team Fantastic - 4** at the *Autodesk Fusion x 367 Industry Hackathon*.
+
+## 💡 Project Description
+
+## 👥 Team Members & Roles
+* **[Balamurugan K]** 
+* **[Disha H]** 
+* **[Vishnu Priyan ]** 
+* **[Praveen SB]**  
+
+
