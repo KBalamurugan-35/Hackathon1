@@ -1,6 +1,6 @@
 # 🚀 Hackathon1
 
-Official repository for **Team Fantastic - 4** at the *Autodesk Fusion x 367 Industry Hackathon*.
+Official repository for **Team Fantastic - 4** at the *Autodesk Fusion x 360 Industry Hackathon*.
 
 ## 💡 Project Description
 
